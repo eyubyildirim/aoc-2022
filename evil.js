@@ -1,1 +1,4 @@
+function f() {
 alert();
+}
+f();
